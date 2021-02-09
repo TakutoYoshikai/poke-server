@@ -21,7 +21,7 @@ poke-server
 
 **4. start client**
 ```bash
-poke-client <SERVER HOST> <CLIENT ID YOU DECIDED>
+poke-client <SERVER HOST> <CLIENT ID YOU DECIDED> <MP3 SOUND FILE>
 ```
 
 **5. access server using web browser.**
