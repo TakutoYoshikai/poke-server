@@ -2,7 +2,7 @@
 The poke system on local network.
 
 ### Usage
-poke includes two npm packages. those are poke-server and poke-client. poke-server is a package for running web interface. poke-client is a package for receiving notifications.
+poke includes two npm packages. Those are poke-server and poke-client. poke-server is a package for running web interface. poke-client is a package for receiving notifications.
 
 **1. install poke-server**
 ```bash
